@@ -23,6 +23,7 @@ A big-data-driven analysis of U.S. traffic accident records (2016–2023) using 
 ├── README.md
 ├── USAccidents_BigDataProject.ipynb   # Main notebook (end-to-end pipeline)
 ├── USAccidents_Report.pdf             # Project report
+├── USAccidents_PPT.ppt                # Project presentation
 ├── Project_Proposal.pdf               # Original project proposal
 ```
 
