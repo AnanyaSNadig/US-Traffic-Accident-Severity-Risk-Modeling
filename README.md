@@ -3,8 +3,13 @@
 A big-data-driven analysis of U.S. traffic accident records (2016–2023) using Apache Spark and PySpark. The project builds a scalable analytics pipeline to identify patterns associated with high-severity accidents and predicts severity using machine learning models.
 
 **Course:** CSGY-6513 Big Data | Section C | Spring 2026
+
 **Instructor:** Prof. Amit Patel
-**Team:** Ananya Shashidhara Nadig (an4968), Isha Jariwala (ij2221), Rhea Shastri (rs9459)
+
+**Team:** 
+- Ananya Nadig (an4968)
+- Isha Jariwala (ij2221)
+- Rhea Shastri (rs9459)
 
 ## Dataset
 
