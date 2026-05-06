@@ -51,8 +51,6 @@ kaggle_username = "YOUR_KAGGLE_USERNAME"
 kaggle_key = "YOUR_KAGGLE_API_TOKEN"
 ```
 
-> **Note:** Never commit your actual Kaggle credentials to a public repository.
-
 ## Pipeline Overview
 
 ### 1. Data Ingestion & Cleaning
